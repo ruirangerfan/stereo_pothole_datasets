@@ -4,6 +4,10 @@ These datasets were created by Dr. Rui Fan (Ranger). 16/08/2019
 ### 1. publication ###
 These datasets were published along with our paper:
 
+IEEE TIP paper DOI: 10.1109/TIP.2019.2933750
+
+paper link: https://ieeexplore.ieee.org/abstract/document/8809907
+
 The arxiv version can be found: https://arxiv.org/abs/1908.00894
 
 Please cite our papers when using these datasets (please copy the bibtex items below and paste them in your .bib file). 
