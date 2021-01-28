@@ -1,4 +1,4 @@
-# stereo_pothole_datasets (IEEE Transactions on Image Processing 2019 datasets)
+# Pothole Detection Datasets (IEEE Transactions on Image Processing 2019 datasets)
 These datasets were created by Rui (Ranger) Fan. 16/08/2019
 
 ### 1. publication ###
