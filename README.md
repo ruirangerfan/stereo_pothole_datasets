@@ -2,7 +2,7 @@
 These datasets were created by [Rui (Ranger) Fan](https://www.ruirangerfan.com/) on 16/08/2019
 
 ## 1. Publication
-These datasets were published along with our IEEE Transactions on Image Processing (T-IP) [paper](https://www.ruirangerfan.com/pdf/tip2019_fan.pdf):
+These datasets were published along with our IEEE Transactions on Image Processing (T-IP) paper ["Pothole Detection Based on Disparity Transformation and Road Surface Modeling"](https://www.ruirangerfan.com/pdf/tip2019_fan.pdf):
 
 ## 2. Dataset details
 Each dataset includes:
@@ -15,10 +15,15 @@ Each dataset includes:
 6) 3D point clouds. 
 
 `disp`: disparity maps
+
 `disp_tc`: transformed disparity maps in color
+
 `disp_tg`: transformed disparity maps in gray-scale
+
 `label`: pixel-level pothole labels
+
 `ptcloud`: 3D point clouds
+
 `rgb`: rgb images
 
 ## 3. Demo code
