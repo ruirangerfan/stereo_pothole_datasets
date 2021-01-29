@@ -50,9 +50,10 @@ Please cite the following papers when using these datasets:
 }
 ```
 ### 5. Note:
-The following pothole detection results are not utilized to evaluate the algorithm:
+The following pothole detection results are not utilized for algorithm evaluation:
 
 dataset 2:
+
 frame ID: 6, 7, 8, 13, 14, 15, 21, 22, 23, 37, 38, 39. 
 
 ## 4. Contact
