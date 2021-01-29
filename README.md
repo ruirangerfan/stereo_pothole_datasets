@@ -7,19 +7,12 @@ These datasets were published along with our IEEE Transactions on Image Processi
 ## 2. Dataset details
 Each dataset includes:
 
-1) RGB images; 
-2) pothole labels; 
-3) disparity maps; 
-4) transformed disparity maps (gray-scale); 
-5) transformed disparity maps (RGB); 
-6) 3D point clouds. 
-
 - `disp`: disparity maps
 - `disp_tc`: transformed disparity maps in color
 - `disp_tg`: transformed disparity maps in gray-scale
 - `label`: pixel-level pothole labels
 - `ptcloud`: 3D point clouds
-- `rgb`: rgb images
+- `rgb`: RGB images
 
 ## 3. Demo code
 Run `demo.m` to visualize our datasets. 
@@ -52,9 +45,7 @@ Please cite the following papers when using these datasets:
 ### 5. Note:
 The following pothole detection results are not utilized for algorithm evaluation:
 
-dataset 2:
-
-frame ID: 6, 7, 8, 13, 14, 15, 21, 22, 23, 37, 38, 39. 
+Dataset 2, frame ID: 6, 7, 8, 13, 14, 15, 21, 22, 23, 37, 38, 39. 
 
 ## 4. Contact
 e-mail: rui.fan@ieee.org
