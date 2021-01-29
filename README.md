@@ -14,7 +14,7 @@ Each dataset includes:
 5) transformed disparity maps (RGB); 
 6) 3D point clouds. 
 
--`disp`: disparity maps
+- `disp`: disparity maps
 -`disp_tc`: transformed disparity maps in color
 -`disp_tg`: transformed disparity maps in gray-scale
 -`label`: pixel-level pothole labels
